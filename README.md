@@ -14,11 +14,13 @@ Implementation for this part is in /SFT/sft.
 
 You check the performance by running python baseline.py for MATH and python gm_baseline.py for GMS8k.
 
+
 2. Expert Iteration:
 
 Implementation for this part is in /SFT/expert.
 
 Same running command in Part(1) to check the performance.
+
 
 3. GRPO
 
