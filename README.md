@@ -1,6 +1,6 @@
 This project have three part:
 a. SFT
-b. Ecpert Iteration
+b. Expert Iteration
 c. GRPO
 
 0. Requirement
