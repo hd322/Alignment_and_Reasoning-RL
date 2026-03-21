@@ -1,7 +1,10 @@
 This project have three part:
 a. SFT
+
 b. Expert Iteration
+
 c. GRPO
+
 d. Best model .pth
 
 0. Requirement
