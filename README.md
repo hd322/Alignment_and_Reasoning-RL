@@ -3,7 +3,7 @@ a. SFT
 b. Expert Iteration
 c. GRPO
 d. Best model .pth
-<br>
+
 0. Requirement
 
 Required library is in requirement.txt
