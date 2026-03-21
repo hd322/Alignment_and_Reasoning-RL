@@ -34,4 +34,6 @@ Implementation for this part is in /GRPO/
 
 Same running command in Part(1) to check the performance.
 
-4. 
+4. Models
+
+All models tested are in /models
